@@ -1,0 +1,14 @@
+-DONE Sign up functionality
+-DONE Log out functionality
+-DONE Log in functionality
+
+-DONE Create app for rooms
+-DONE Create supperuser
+-DONE Show list rooms
+-DONE Room detail view
+-DONE Creating a consumer
+-Joining a chat
+
+-DONE Sending message
+-DONE Storing message
+-Scrolling to the bottom
